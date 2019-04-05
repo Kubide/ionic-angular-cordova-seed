@@ -1,6 +1,3 @@
-ionic-angular-cordova-seed
-==========================
+## Support
 
-The perfect starting point for an Ionic project.
-
-- [Ionic Tutorials](http://ionicframework.com/tutorials/)
+[Kubide](https://kubide.io/) continues code maintenance [here](https://gitlab.com/kubide-rocks/ionic-angular-cordova-seed).
